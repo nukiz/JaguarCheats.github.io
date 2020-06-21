@@ -1,17 +1,18 @@
 {
-	"Combat":[
-		"Killaura",
-		"Triggerbot",
-		"Hitbox"
+	"Utility":[
+		"Antibounce",
+		"Antiportal",
+		"Anticheckpoint",
+		"Ghost"
 	]
 	"Movement":[
-		"Jetpack",
-		"Air Jump",
-		"AutoSprint",
-		"NoSlowDown",
-		"BunnyHop",
-		"NoWeb",
-		"Speed",
-		"Jesus"
+		"Move While Dead",
+		"NoClip",
+		"Giveaway Mode",
+		"AutoPlant",
+		"Tractor Mode",
+		"Developer Mode",
+		"WaterGrowz",
+		"Growz"
 	]
 }
